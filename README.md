@@ -7,7 +7,7 @@ CARA PENGGUNAAN UNTUK TERMUX :
 
 2.pkg install curl
 
-3.git clone https://github.com/IndonesiaDarkCode/prank-call
+3.git clone https://github.com/KUVIANTIINDONESIANET/prank-call
 
 4.cd prank-call
 
